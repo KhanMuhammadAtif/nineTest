@@ -1,0 +1,13 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="TestNG Learning - Tsys">
+
+
+<test name="NineTest_Popup">
+    <classes>
+        <class name="nineTestCases.popUp" ></class>  
+    </classes>
+</test>
+
+
+
+</suite>
